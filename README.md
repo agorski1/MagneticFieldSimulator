@@ -60,7 +60,7 @@ Parameters
 
 ## Example Output
 The visualization shows a 3D cable with cones representing the magnetic field vectors. You can interact with the plot (rotate, zoom) in your browser.
-![Magnetic Field Visualization](https://raw.githubusercontent.com/your-username/MagneticFieldSimulator/main/output.png)
+![Magnetic Field Visualization](https://github.com/agorski1/MagneticFieldSimulator/blob/master/output.png)
 ## Contributing 
 Feel free to submit issues or pull requests if you have ideas for improvements!
 
